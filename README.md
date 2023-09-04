@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AMIR JJ
-- 🌱 I’m currently learning Computer Vision and also Software engineering
-- 📫 How to reach me : by email: a.m.x.janjan@gmail.com, or [by instagram](https://www.instagram.com/a.m.x.janjan/) (why not?)
+- 🌱 I’m currently learning Computer Vision and Software engineering
+- 📫 How to reach me: by email: a.m.x.janjan@gmail.com
 
 <!---
 A-janjan/A-janjan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
