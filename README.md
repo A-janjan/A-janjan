@@ -7,10 +7,6 @@
                                     
 -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-janjan&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
 # A.M. Janjan
 
 **ML & NLP Engineer · Electrical Engineer · AI Enthusiast**
@@ -53,6 +49,7 @@ I enjoy working with cutting-edge tools, creating **production-ready AI solution
 ## 📊 GitHub Highlights
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=A-janjan&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-janjan&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
